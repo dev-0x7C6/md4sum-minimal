@@ -1,0 +1,14 @@
+This is md4sum, an MD4 message digests generator/checker based on the
+reference implementation published by R. Rivest, MIT Laboratory for
+Computer Science and RSA Data Security, Inc. with RFC1320 in April 1992.
+See RFC1186 and its update RFC1320 for algorithm.
+
+The usage is: md4sum [options] [file(s)]...
+see the manual page for more information.
+
+Md4sum should be available at the metalab ftp site at
+ftp://ibiblio.org/pub/Linux/utils/file/.
+
+See also: TP Müller's ed2k_hash program,
+http://sourceforge.net/projects/ed2k-tools/
+(formerly at http://users.aber.ac.uk/tpm01/ed2k_tools/ed2k_hash.html).

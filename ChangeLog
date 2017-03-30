@@ -1,0 +1,21 @@
+md4sum
+
+v0.01.01 2002-11-07
+- initial release
+
+v0.01.02 2002-11-09
+- check added (make test)
+- type mismatches fixed for 64-bit machines
+
+v0.01.03 2002-11-14
+- strerror(errno) instead of sys_errlist
+- stdin bug fixed
+
+v0.02.01 2004-05-14
+- add: largefile support (>2GB)
+
+v0.02.02 2007-04-05
+- encoding routines rewritten, about 30% gain in speed
+
+v0.02.03 2007-04-11
+- some more speed enhancements
