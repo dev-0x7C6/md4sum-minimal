@@ -7,3 +7,4 @@ set(SOURCES
 
 add_executable (md4sum ${SOURCES})
 set_property(TARGET md4sum PROPERTY CXX_STANDARD 98)
+install(TARGETS md4sum DESTINATION bin)
